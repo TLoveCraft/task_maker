@@ -6,6 +6,7 @@
     <title>Task_Maker</title>
 </head>
 <body>
+    <a href="{{ route('user.create') }}">Cadastre-se aqui!</a> <br>
     <h3>Bem vindo!</h3>
 
 </body>
